@@ -4,8 +4,6 @@ Portfolio using Kaboom JS
 
 # To host your Vite project from your repository portfolio_kaboom on GitHub Pages at https://sonumahajan.github.io/portfolio_kaboom/
 
-, follow these steps:
-
 ## Step 1: Update vite.config.js
 
 First, you'll need to configure Vite to correctly build your project for deployment on GitHub Pages.
